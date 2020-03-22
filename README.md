@@ -1,0 +1,1 @@
+Static website converted from WP. Deployed to Now.
