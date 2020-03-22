@@ -1,0 +1,24 @@
+Friday, 09-Mar-2018 20:08:04 - restore started
+Friday, 09-Mar-2018 20:08:04 - wp version     : 4.9.4
+Friday, 09-Mar-2018 20:08:04 - php version    : 7.2.3
+Friday, 09-Mar-2018 20:08:04 - mysql version  : 5.7.21
+Friday, 09-Mar-2018 20:08:04 - memory limit   : 1024M
+Friday, 09-Mar-2018 20:08:04 - execution time : 600
+Friday, 09-Mar-2018 20:08:04 - mysql timeout  : 
+Friday, 09-Mar-2018 20:08:04 - socket timeout : 600
+Friday, 09-Mar-2018 20:08:04 - file download started
+Friday, 09-Mar-2018 20:08:05 - download finished, filesize - 37.77 MB
+Friday, 09-Mar-2018 20:08:05 - extracting database using ziparchive
+Friday, 09-Mar-2018 20:08:05 - changing prefix from "s76Ce_" to "wp_"
+Friday, 09-Mar-2018 20:08:05 - database import started
+Friday, 09-Mar-2018 20:08:06 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "https://seasonstherapy.p2.benevolent.tech", "yes")"
+Friday, 09-Mar-2018 20:08:06 - mysql query failed. error : 1065 Query was empty - query : ""
+Friday, 09-Mar-2018 20:08:06 - database import finished
+Friday, 09-Mar-2018 20:08:06 - search and replace started
+Friday, 09-Mar-2018 20:08:06 - there are 14 tables to scan
+Friday, 09-Mar-2018 20:08:06 - search and replace finished
+Friday, 09-Mar-2018 20:08:06 - extracting archive using ziparchive
+Friday, 09-Mar-2018 20:08:06 - copying files..
+Friday, 09-Mar-2018 20:08:07 - deleting temp directory..
+Friday, 09-Mar-2018 20:08:07 - deleting downloaded zip file..
+Friday, 09-Mar-2018 20:08:07 - restore finished
